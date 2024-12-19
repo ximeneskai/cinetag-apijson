@@ -2,27 +2,27 @@
     "videos": [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+            "titulo": "Dançando no Escuro",
+            "capa": "https://personaunesp.com.br/wp-content/uploads/2020/12/FOTO-1-1-1.jpg",
+            "link": "https://www.youtube.com/watch?v=ILr2sYclMC4"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+            "titulo": "Medianeras",
+            "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzCVKG94C-1VwhKrq_LA59mAt4t6qT6ii-dTl8LJ6oaN3h5H1lz7RAHR-y8uKZ_W9c4SZUpKs32VOcJzVvD5of9mZjWP-1AGWM7CDN2rjmj5X0msZoygLo8HiD8PjgTYYyewL3TZ-xvfc/s1600/374261_10150405621893840_54022008839_8467188_1659545114_n.jpg",
+            "link": "https://www.youtube.com/watch?v=kmBzxutYLOA"
         },
         {
             "id": 3,
-            "titulo": "O poderoso JavaScript",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+            "titulo": "O Homem do Futuro",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/c/cc/Poster_O_Homem_do_Futuro.jpg",
+            "link": "https://www.youtube.com/watch?v=E0J0zlkGBlM"
         },
         {
             "id": 4,
-            "titulo": "Dart, o Caçador de Andróides",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+            "titulo": "Jumper",
+            "capa": "https://m.media-amazon.com/images/I/51WFxt1uzSL._AC_UF894,1000_QL80_.jpg",
+            "link": "https://www.youtube.com/watch?v=WH8KFfuGoPI"
         }
     ]
 }
